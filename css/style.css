@@ -278,13 +278,13 @@ table.horario th.grupo{
 }
 
 form.form-login{
-    width: 50%;
+    width: 20%;
     float: left;
     padding: 0 40px;
 }
 
 form.form-registro {
-    width: 50%;
+    width: 40%;
     float: right;
     padding: 0 40px;
 }
@@ -293,6 +293,26 @@ form.form-registro {
     clear: both;
 }
 
+form.form-html5{
+    width: 40%;
+    margin: 0 auto;
+}
+
+.form-html5 fieldset{
+    background-color: azure;
+}
+
+.form-html5 legend{
+    background-color: whitesmoke;
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 150%;
+}
+
+.form-html5 label{
+    background-color: rgb(134, 220, 97);
+    color: whitesmoke;
+}
 
 
 
